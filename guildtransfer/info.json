@@ -1,15 +1,13 @@
 {
-	"author": [
-		"MrInsane"
-	],
-    "description": "A simple guild transfer cog.",
-    "install_msg": "Thanks for installing this cog. This cog transfers server ownership from the bot to a specified individual.",
-	"short": "A simple guild transfer cog.",
-	"tags": [
-        "transfer",
-		"admin"
-	],
-	"min_bot_version": "3.5.0.dev317",
-	"type": "COG",
-	"end_user_data_statement": "This cog does not store end user data."
+    "name": "GuildTransfer",
+    "author": [
+        "mrinsane"
+    ],
+    "short": "Transfers server ownership from bot to someone",
+    "description": "Transfers server ownership from bot to someone",
+    "requirements": [],
+    "tags": [
+        "administration"
+    ],
+    "end_user_data_statement": "This cog doesn't store anything at all."
 }
